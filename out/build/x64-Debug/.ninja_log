@@ -1,0 +1,11 @@
+# ninja log v5
+1	34	0	clean	4b52aa8ad9c61460
+2149	2661	7183295764591409	../../../bin/Earth_System_v0.1.0.exe	a0af97af89733e05
+21	1921	7183293585162948	CMakeFiles/app.dir/libs/GLAD/src/gl.c.obj	af275a09a238b0a5
+5	630	7185622954142672	build.ninja	57f190d4dac0645d
+3	2147	7183295760086878	CMakeFiles/app.dir/src/main.cpp.obj	99aaba5d22c5c754
+28	1376	7185623491900990	CMakeFiles/app.dir/src/Shader.cpp.obj	2fcf881f18e10fcf
+15	1394	7185623492126299	CMakeFiles/app.dir/src/Asset.cpp.obj	bd8e53aac771afee
+6	1741	7185623495604224	CMakeFiles/app.dir/libs/GLAD/src/gl.c.obj	6eb8d1aff24c6edf
+39	2277	7185623500952790	CMakeFiles/app.dir/src/main.cpp.obj	4abe4e0afec723b0
+2278	2874	7185623505613692	../../../bin/Earth_System_v0.1.0.exe	44779a27193495be
