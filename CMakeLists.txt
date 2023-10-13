@@ -7,7 +7,10 @@ set(SOURCES_DIRECTORY "${CMAKE_CURRENT_LIST_DIR}/src")
 set(SOURCES
   "${SOURCES_DIRECTORY}/main.cpp"
   "${SOURCES_DIRECTORY}/Asset.cpp"
+  "${SOURCES_DIRECTORY}/Mesh.cpp"
   "${SOURCES_DIRECTORY}/Shader.cpp"
+  "${SOURCES_DIRECTORY}/Sphere.cpp"
+  "${SOURCES_DIRECTORY}/Texture.cpp"
 )
 
 set(GLFW_DIRECTORY "${CMAKE_CURRENT_LIST_DIR}/libs/GLFW")
@@ -44,6 +47,7 @@ set(SOURCES
   ${GLAD_SOURCES}
   ${SOURCES}
 )
+
 
 if (MINGW) 
   find_library(opengl "libopengl32.a")
