@@ -1,1 +1,2 @@
-# Earth_System
+# Earth_System 
+Just launch exe file
